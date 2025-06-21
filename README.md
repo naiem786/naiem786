@@ -6,6 +6,7 @@
 </p>
 
 ## 🏆 GitHub Trophies
+![GitHub Joined](https://img.shields.io/github/joined/naiem786?label=Joined%20on)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=naiem786&theme=dark&columns=3&no-frame=true&margin-w=15" alt="naiem786" />
