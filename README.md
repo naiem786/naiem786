@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Full‑Stack Software Engineer from India</h3>
 
 <p align="center">
-  <img src="https://github-profile-achievements.vercel.app/api/achievement/joined-github?username=naiem786" />
-
+<a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://komarev.com/ghpvc/?username=naiem786&label=Profile%20views&color=0e75b6&style=flat" alt="naiem786" />
 </p>
 
