@@ -5,6 +5,20 @@
   <img src="https://github-profile-trophy.vercel.app/?username=naiem786&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
+<!-- Radical theme, no frame -->
+<img src="https://github-profile-trophy.vercel.app/?username=naiem786&theme=radical&no-frame=true" />
+
+<!-- Dark theme, 3 columns -->
+<img src="https://github-profile-trophy.vercel.app/?username=naiem786&theme=dark&columns=3" />
+
+<p align="center">
+  <a href="https://github.com/sponsors/ryo-ma">
+    <img src="https://img.shields.io/badge/Sponsor-❤️-e99695" alt="Sponsor GitHub-Trophy" />
+  </a>
+</p>
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true" />
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![React](https://img.shields.io/badge/React-17.0.2-blue)
 
