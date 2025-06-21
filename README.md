@@ -11,6 +11,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=naiem786&theme=dark&columns=3&no-frame=true&margin-w=15" alt="naiem786" />
 </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naiem786" alt="naiem786" /></a> </p>
 
 ---
 
