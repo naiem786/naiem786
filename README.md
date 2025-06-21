@@ -24,8 +24,8 @@
 - JavaScript, React, Node.js, Supabase, REST APIs, and UI/UX
 
 ### 📫 How to reach me
-- ✉️ naiem.shaikh@example.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/naiem786) ● [Portfolio](https://naiem786.github.io)
+- ✉️ naiemshaikhoff@example.com  
+- 🔗 [LinkedIn](https://linkedin.com/in/naiemdev) ● [Portfolio](https://naiem786.github.io)
 
 ### ⚡ Fun fact
 - I once built an IoT fitness band that tracks pulse & SpO₂ in my final‐year project
