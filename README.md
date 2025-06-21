@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=naiem786&label=Profile%20views&color=0e75b6&style=flat" alt="naiem786" />
 </p>
-[![Pull Shark](https://img.shields.io/badge/Achievement-Pull%20Shark-blue)](https://github.com/users/naiem786/achievements/pull-shark)
 
 ## 🏆 GitHub Trophies
 ![Joined on](https://img.shields.io/github/joined/naiem786?label=Joined%20on)
