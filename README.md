@@ -2,9 +2,6 @@
 
 ## 🏆 GitHub Trophies
 
-<!-- Radical theme, no frame -->
-<img src="https://github-profile-trophy.vercel.app/?username=naiem786&theme=radical&no-frame=true" />
-
 <!-- Dark theme, 3 columns -->
 <img src="https://github-profile-trophy.vercel.app/?username=naiem786&theme=dark&columns=3" />
 
