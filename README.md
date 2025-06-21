@@ -5,6 +5,9 @@
 <!-- Radical theme, no frame -->
 <img src="https://github-profile-trophy.vercel.app/?username=naiem786&theme=radical&no-frame=true" />
 
+<!-- Dark theme, 3 columns -->
+<img src="https://github-profile-trophy.vercel.app/?username=naiem786&theme=dark&columns=3" />
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![React](https://img.shields.io/badge/React-17.0.2-blue)
 
