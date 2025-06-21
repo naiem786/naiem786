@@ -2,17 +2,7 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <a href="https://github.com/sponsors/ryo-ma">
-    <img src="https://img.shields.io/badge/Sponsor-❤️-e99695" alt="Sponsor GitHub-Trophy" />
-  </a>
-</p>
 <!-- Radical theme, no frame -->
-<img src="https://github-profile-trophy.vercel.app/?username=naiem786&theme=radical&no-frame=true" />
-
-<!-- Dark theme, 3 columns -->
-<img src="https://github-profile-trophy.vercel.app/?username=naiem786&theme=dark&columns=3" />
-
 <img src="https://github-profile-trophy.vercel.app/?username=naiem786&theme=radical&no-frame=true" />
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
